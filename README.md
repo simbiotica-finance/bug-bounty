@@ -9,6 +9,6 @@ Para poder testar o site estou lançando o programa UM BUG = UMA CERVEJA. Cada b
 Regras:
 - Não pode ser um bug que você mesmo criou.
 - Não pode ser um bug repetido.
-- A ausência de uma feature pode ou não significar um bug. 
+- A ausência de uma feature pode ou não significar um bug.
 - A data avaliada será a data de report vs data do commit. Não serão contabilizados bugs já resolvidos. 
 - Poste algo que seja explicativo, tire prints. Não precisa apresentar solução.
